@@ -1,3 +1,4 @@
+<script>
 function circle(){
  var r,a=0,p=0;
  r=parseInt(prompt("input the radius"));
@@ -45,3 +46,4 @@ document.write("<h1>"+i+"<br></h1>");
 }
 }
 }
+</script>
